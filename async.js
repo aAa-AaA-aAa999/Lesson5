@@ -1,5 +1,4 @@
 //Задание 1
-console.log("\x1b[31mКрасный\x1b[0m")
 const sleep = (ms) => new Promise (resolve => setTimeout(resolve, ms))
 
 
